@@ -1,0 +1,2 @@
+# GoogleFit_PostWeightSample
+Google Fitに体重を投稿するためのサンプル
